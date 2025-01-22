@@ -5,6 +5,9 @@ I made this quick package just so I can quickly test some asset bundles I use.
 > You can get latest release from [here](https://github.com/u-Kotovsky/UnityAssetBundleTools/releases)
 > or download code, both should work just fine.
 
+> [!IMPORTANT]
+> I use it in Unity `2022.3.22f1` so I don't know how it'll work on other versions.
+
 ## How to use
 
 ### How to load an asset into scene
