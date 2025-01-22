@@ -1,8 +1,12 @@
 {
     "name": "unity-asset-bundle-tools",
+    "version": "1.0.0-rc1",
     "displayName": "Kotovsky Unity Asset Bundle Tools",
     "description": "Useful tools for working with Unity Asset Bundles",
-    "version": "2022.3.22",
+    "unity": "2022.3",
+    "documentationUrl": "https://github.com/u-Kotovsky/UnityAssetBundleTools/blob/main/README.md",
+    "license": "GPL-3.0-only",
+    "licensesUrl": "https://github.com/u-Kotovsky/UnityAssetBundleTools/blob/main/LICENSE",
     "author": {
         "name" : "u-Kotovsky",
         "url" : "https://github.com/u-Kotovsky"
