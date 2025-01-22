@@ -3,6 +3,7 @@ I made this quick package just so I can quickly test some asset bundles I use.
 
 > [!TIP]
 > You can get latest release from [here](https://github.com/u-Kotovsky/UnityAssetBundleTools/releases)
+> and put `Packages/con.kotovsky.unity.assetbundle-tools` in your `Packages` folder 
 > or download code, both should work just fine.
 
 > [!IMPORTANT]
