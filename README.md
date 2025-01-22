@@ -11,6 +11,8 @@ I made this quick package just so I can quickly test some asset bundles I use.
 
 ## How to use
 
+All tools are placed in main menu. (Top-Left corner)
+
 ### How to load an asset into scene
 Go to `Tools/Kotovsky Unity Asset Bundle Tools/Editor/Load Asset From AssetBundle`
 and select your AssetBundle file.
@@ -21,3 +23,7 @@ and select your AssetBundle file.
 
 Go to `Tools/Kotovsky Unity Asset Bundle Tools/Runtime/Load Scene From AssetBundle`
 and select your AssetBundle file.
+
+### How to manually unload assets
+
+Go to `Tools/Kotovsky Unity Asset Bundle Tools/Unload assets`
